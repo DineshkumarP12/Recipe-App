@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .recipe-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .recipe-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .favorites {
+    margin-top: 20px;
+  }
+  
+  .favorite-item {
+    margin-bottom: 10px;
+  }
